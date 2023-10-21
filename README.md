@@ -49,6 +49,6 @@ print(f"El saldo actual es: {saldo}")
 
 Espero que esta herramienta simplifique la contabilidad y mejore la gestión financiera de las PYMEs.
 
-## No olvides dar las gracias
+## Agradecimientos
 
 Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
